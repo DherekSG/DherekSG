@@ -2,7 +2,9 @@
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQG0KGePnK5ISA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734479096284?e=1752710400&v=beta&t=oyuFqckYf7Lz212oG3DM9NX_pcq4lhAeSmYTYhemyV4" align="center" style="width: 100%" />
 </div>  
 
-### <div align="center">Olá! 👋 Me chamo Dherek Schaberle
+---
+
+###<big> <div align="center">Olá! 👋 Me chamo Dherek Schaberle </big>
 
 Sou um profissional de tecnologia com experiência como **Analista de Sistemas** e **Software Engineer**, atualmente em transição para a área de **Segurança da Informação**. Tenho interesse em  **CiberSegurança**, **Governança de TI**, **Proteção de Dados** e **Análise de Vulnerabilidades**, e venho me dedicando a aprender cada vez mais sobre o tema.
 
