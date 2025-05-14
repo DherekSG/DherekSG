@@ -3,7 +3,7 @@
 </div>  
 
 ---
-<big>
+
 ### <div align="center">Olá! 👋 Me chamo Dherek Schaberle
 </big>
 
