@@ -1,3 +1,6 @@
+<div align="center">
+<img src="https://img.freepik.com/premium-photo/padlock-with-tablet-keyboard-mouse-other-device-internet-technology-security_220873-11127.jpg" align="center" style="width: 100%" />
+</div>  
 
 ### <div align="center">Olá! 👋 Me chamo Dherek Schaberle
 
