@@ -186,4 +186,12 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br />
 
+---
+
+📊 **Estatísticas do GitHub**
+
+![Dherek's GitHub stats](https://github-readme-stats.vercel.app/api?username=DherekSG&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-l)
+
 ----
