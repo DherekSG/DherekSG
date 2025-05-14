@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://img.freepik.com/premium-photo/padlock-with-tablet-keyboard-mouse-other-device-internet-technology-security_220873-11127.jpg" align="center" style="width: 100%" />
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQG0KGePnK5ISA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734479096284?e=1752710400&v=beta&t=oyuFqckYf7Lz212oG3DM9NX_pcq4lhAeSmYTYhemyV4" align="center" style="width: 100%" />
 </div>  
 
 ### <div align="center">Olá! 👋 Me chamo Dherek Schaberle
