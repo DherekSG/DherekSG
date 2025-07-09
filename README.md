@@ -7,6 +7,9 @@
 ### <div align="center">Olá! 👋 Me chamo Dherek Schaberle
 </big>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Bem+vindo+ao+meu+Perfil!;Programador+a+8+anos%2C+migrando+para+Cybersecurity)](https://git.io/typing-svg)
+
+
 Sou um profissional de tecnologia com experiência como **Analista de Sistemas** e **Software Engineer**, atualmente em transição para a área de **Segurança da Informação**. Tenho interesse em  **CiberSegurança**, **Governança de TI**, **Proteção de Dados** e **Análise de Vulnerabilidades**, e venho me dedicando a aprender cada vez mais sobre o tema.
 
 ---
