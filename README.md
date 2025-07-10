@@ -7,6 +7,7 @@
  ### <div align="center">Olá! 👋 Me chamo Dherek Schaberle
 </big>
 
+
 Sou um profissional de tecnologia com experiência como **Analista de Sistemas** e **Software Engineer**, atualmente em transição para a área de **Segurança da Informação**. Tenho interesse em  **CiberSegurança**, **Governança de TI**, **Proteção de Dados** e **Análise de Vulnerabilidades**, e venho me dedicando a aprender cada vez mais sobre o tema.
 
 ---
